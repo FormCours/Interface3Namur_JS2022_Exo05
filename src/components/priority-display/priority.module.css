@@ -1,0 +1,16 @@
+.urgent {
+    color: crimson;
+    font-weight: bold;
+}
+
+.normal {
+    color: orange;
+    font-weight: 300;
+}
+
+.low {
+    color: chartreuse;
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,13 @@
+.todo {
+    display: flex;
+    align-items: center;
+
+    background-color: black;
+    color: snow;
+    padding: 5px 10px;
+}
+
+.todo > p {
+    margin: 0px;
+    font-size: 1.3rem;
+}
